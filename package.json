@@ -1,0 +1,17 @@
+{
+  "name": "donation",
+  "version": "1.0.0",
+  "description": "Donation Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",  
+    "express": "^4.17.2",
+    "nodemon": "^2.0.12",
+    "razorpay": "^2.8.0"
+  }
+}
